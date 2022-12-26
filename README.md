@@ -8,4 +8,4 @@
 * Медиазапросы
 * Подключение шрифтов
 ## Ссылка на GitHub Pages:  
-https://github.com/GrafOlga/russian-travel
+https://grafolga.github.io/russian-travel/
